@@ -1,3 +1,0 @@
-Name: Yogesh
-Course: Python
-Age: 25
